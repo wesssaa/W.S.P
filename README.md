@@ -43,7 +43,7 @@ W.S.P werkt zichzelf bij, je hoeft niets meer te downloaden.
 
 ## Privacy
 
-- Je logt in via de gewone schoolinlog (Microsoft). Op die pagina verbergt de app alleen het logo van school en zet hij een algemene voorbeeldtekst in het e-mailveld. De app ziet en bewaart je wachtwoord niet; hij houdt je ingelogd met de inlogcookies van het portaal (tot 30 dagen) en de Zermelo-sleutel, in de afgeschermde opslag van de app. Uitloggen wist ze.
+- Je logt in via de gewone schoolinlog (Microsoft); die pagina laat de app zoals hij is. De app ziet en bewaart je wachtwoord niet; hij houdt je ingelogd met de inlogcookies van het portaal (tot 30 dagen) en de Zermelo-sleutel, in de afgeschermde opslag van de app. Uitloggen wist ze.
 - Je cijfers, rooster, huiswerk, absentie, reminders en eigen huiswerk worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
 - Het rooster van een medeleerling kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
