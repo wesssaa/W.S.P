@@ -34,10 +34,9 @@ Werkt op Android 7 of nieuwer.
 
 ## Updates
 
-W.S.P werkt zichzelf bij, je hoeft niets meer te downloaden.
+W.S.P laat je weten als er een nieuwe versie is.
 
-- Bij de eerste keer openen vraagt de app je om in de instellingen **Toestaan uit deze bron** aan te zetten voor W.S.P. Dat is alleen voor updates van W.S.P zelf.
-- Staat dat aan, dan kijkt de app elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken** en daarna bij Android op **Updaten**. Je cijfers, reminders en instellingen blijven gewoon staan.
+- De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Je browser downloadt de nieuwe versie; tik daarna op de download en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
 - Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week.
 - Zelf kijken kan altijd bij **Meer → Zoek naar updates**.
 
@@ -48,8 +47,8 @@ W.S.P werkt zichzelf bij, je hoeft niets meer te downloaden.
 - Het rooster van een medeleerling kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
-- De app kijkt op GitHub of er een update is en downloadt die daar. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
-- Loopt de app vast, dan gaat de technische foutmelding automatisch naar de ontwikkelaar (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog).
+- De app kijkt op GitHub of er een update is; de download zelf gaat via je browser. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
+- Loopt de app vast, dan zie je de technische foutmelding (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog). Die wordt niet vanzelf verstuurd; je kunt hem zelf kopiëren en naar de ontwikkelaar sturen.
 - Er zitten geen advertenties of trackers in.
 
 ## Let op
