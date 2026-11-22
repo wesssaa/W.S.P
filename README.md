@@ -12,7 +12,7 @@ W.S.P is een onofficiële Android-app voor leerlingen. Je logt in met je eigen s
 - **Rooster uit Zermelo**, per dag of per week, met uitval en lokaalwijzigingen (en waar de les eerst was). Bovenaan zie je welke les nu bezig is en hoeveel minuten er nog over zijn. Een uur voor je eerste les ververst de app alles.
 - **Vrije dagen en vakanties** uit de jaaragenda van school, met aftellen naar de volgende vakantie.
 - **Huiswerk** per week, afvinken, herinneringen per vak of per opdracht, en zelf huiswerk toevoegen dat de docent niet online heeft gezet. Een rood getalletje laat zien als er iets nieuws is.
-- **Rooster van iemand anders** bekijken met een leerlingnummer (als je school dat in Zermelo toestaat).
+- **Rooster van iemand anders** bekijken: zoek op klas (bijv. h2c), docentcode of leerlingnummer, net als in Zermelo (als je school dat toestaat).
 - **Eigen reminders**: typ waaraan je moet denken, kies de dag en tijd, eenmalig of herhalend (elke dag, om de zoveel dagen of weken). Je ziet ze ook in je rooster.
 - **Docenten**: tik op een docentcode (bijv. Stn) voor de naam en het e-mailadres.
 - **Widget** op je startscherm met je volgende les, het lokaal en of hij uitvalt.
@@ -44,7 +44,7 @@ W.S.P laat je weten als er een nieuwe versie is.
 
 - Je logt in via de gewone schoolinlog (Microsoft); die pagina laat de app zoals hij is. De app ziet en bewaart je wachtwoord niet; hij houdt je ingelogd met de inlogcookies van het portaal (tot 30 dagen) en de Zermelo-sleutel, in de afgeschermde opslag van de app. Uitloggen wist ze.
 - Je cijfers, rooster, huiswerk, absentie, reminders en eigen huiswerk worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
-- Het rooster van een medeleerling kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
+- Het rooster van een medeleerling of docent (en de lijst om in te zoeken) kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
 - De app kijkt op GitHub of er een update is; de download zelf gaat via je browser. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
