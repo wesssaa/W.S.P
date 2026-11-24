@@ -49,7 +49,7 @@ Wil je updates zonder zelf te downloaden en zonder dat er bestanden in Downloads
 2. Tik op **Toevoegen**, plak `https://github.com/wesssaa/W.S.P` en tik op **Toevoegen**.
 3. Obtainium laat je weten als er een nieuwe versie is, installeert hem en ruimt de download daarna zelf op.
 
-Vraagt Obtainium welke APK je wilt, kies dan de `C.R.H-v….apk` (de `Ichthus+.apk` ernaast is alleen voor oude versies van de app). Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de gewone versies, geen testversies (canary).
+Zet bij Obtainium onder **Filter APKs by regular expression** (bij het toevoegen, of later in de instellingen van de app) `^C\.R\.H`. Dan pakt hij altijd de `C.R.H-v….apk`; de `Ichthus+.apk` ernaast is alleen voor oude versies van de app. Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de gewone versies, geen testversies (canary).
 
 ## Privacy
 
