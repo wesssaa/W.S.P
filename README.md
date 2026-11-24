@@ -39,6 +39,17 @@ W.S.P laat je weten als er een nieuwe versie is.
 - De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Je browser downloadt de nieuwe versie; tik daarna op de download en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
 - Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week.
 - Zelf kijken kan altijd bij **Meer → Zoek naar updates**.
+- Na het bijwerken heb je de download (`Ichthus+.apk`) niet meer nodig; je kunt hem uit Downloads verwijderen. Hij is maar ongeveer een halve MB.
+
+### Updates via Obtainium (handig)
+
+Wil je updates zonder zelf te downloaden en zonder dat er bestanden in Downloads blijven staan? Gebruik dan [Obtainium](https://github.com/ImranR98/Obtainium), een gratis app die apps rechtstreeks van GitHub bijwerkt.
+
+1. Installeer Obtainium.
+2. Tik op **Toevoegen**, plak `https://github.com/wesssaa/W.S.P` en tik op **Toevoegen**.
+3. Obtainium laat je weten als er een nieuwe versie is, installeert hem en ruimt de download daarna zelf op.
+
+Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de gewone versies, geen testversies (canary).
 
 ## Privacy
 
