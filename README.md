@@ -36,10 +36,11 @@ Werkt op Android 7 of nieuwer.
 
 C.R.H laat je weten als er een nieuwe versie is.
 
-- De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Android downloadt de nieuwe versie (je ziet een melding bovenin); tik daarna op die melding of op de download in Downloads en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
-- Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week.
+- De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Android downloadt de nieuwe versie (je ziet de voortgang bovenin). Is hij klaar, tik dan op **Open Downloads** (of op de melding **Update klaar om te installeren**), tik op de nieuwe versie en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
+- Zie je geen pop-up als de download klaar is (vaak op Xiaomi, Redmi en POCO)? Tik in het updatevenster op **Zet "Zwevende meldingen" aan bij Updates**.
+- Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week. Tot die tijd staat onderaan je rooster een vakje **Update beschikbaar**, zodat je toch eerder kunt bijwerken.
 - Zelf kijken kan altijd bij **Meer → Zoek naar updates**.
-- Na het bijwerken haalt de app de download (`C.R.H-v….apk`) zelf weer uit Downloads, zodat hij geen opslag inneemt. (Op Android 9 en ouder downloadt je browser hem; die kun je zelf verwijderen, hij is maar ongeveer een halve MB.)
+- Na het bijwerken haalt de app de download (`C.R.H-v….apk`) zelf weer uit Downloads, zodat hij geen opslag inneemt. Alleen die ene download: andere bestanden kan de app niet zien of aanraken. (Op Android 9 en ouder downloadt je browser hem; die kun je zelf verwijderen, hij is maar ongeveer een halve MB.)
 
 ### Updates via Obtainium (handig)
 
@@ -58,7 +59,7 @@ Zet bij Obtainium onder **Filter APKs by regular expression** (bij het toevoegen
 - Het rooster van een medeleerling of docent (en de lijst om in te zoeken) kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
-- De app kijkt op GitHub of er een update is; de download zelf doet Android (de downloadfunctie van je telefoon). GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
+- De app kijkt op GitHub of er een update is; de download zelf doet Android (de downloadfunctie van je telefoon). GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou. Na de update haalt de app alleen die ene download weer weg.
 - Loopt de app vast, dan zie je de technische foutmelding (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog). Die wordt niet vanzelf verstuurd; je kunt hem zelf kopiëren en naar de ontwikkelaar sturen.
 - Er zitten geen advertenties of trackers in.
 
