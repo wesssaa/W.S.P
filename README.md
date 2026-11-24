@@ -1,8 +1,8 @@
-# W.S.P
+# C.R.H
 
 **Je cijfers, rooster en huiswerk van school in één overzichtelijke app, en nieuwe cijfers open je als een pakje.**
 
-W.S.P is een onofficiële Android-app voor leerlingen. Je logt in met je eigen schoolaccount; de app zet alles van het leerlingportaal en Zermelo in een rustig jasje, wit of zwart, met jouw eigen accentkleur.
+C.R.H is een onofficiële Android-app voor leerlingen. Je logt in met je eigen schoolaccount; de app zet alles van het leerlingportaal en Zermelo in een rustig jasje, wit of zwart, met jouw eigen accentkleur.
 
 ## Wat zit erin
 
@@ -24,22 +24,22 @@ W.S.P is een onofficiële Android-app voor leerlingen. Je logt in met je eigen s
 
 ## Installeren
 
-1. Download **`Ichthus+.apk`** bij de nieuwste [release](../../releases/latest) (of open de APK die je van iemand hebt gekregen).
+1. Download **`C.R.H-v….apk`** (bijv. `C.R.H-v2.7.9.apk`) bij de nieuwste [release](../../releases/latest) (of open de APK die je van iemand hebt gekregen).
 2. Open het bestand op je telefoon. Vraagt Android of je browser of WhatsApp apps mag installeren, tik dan op **Instellingen**, zet **Toestaan uit deze bron** aan en ga terug.
-3. Tik op **Installeren** en open W.S.P.
+3. Tik op **Installeren** en open C.R.H.
 
 Werkt op Android 7 of nieuwer.
 
-**Heb je een iPhone?** Kijk dan bij [W.S.P voor iPhone](https://github.com/wesssaa/W.S.P-iPhone), met een stap-voor-stap uitleg om hem gratis te installeren.
+**Heb je een iPhone?** Kijk dan bij [C.R.H voor iPhone](https://github.com/wesssaa/W.S.P-iPhone), met een stap-voor-stap uitleg om hem gratis te installeren.
 
 ## Updates
 
-W.S.P laat je weten als er een nieuwe versie is.
+C.R.H laat je weten als er een nieuwe versie is.
 
-- De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Je browser downloadt de nieuwe versie; tik daarna op de download en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
+- De app kijkt elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken**. Android downloadt de nieuwe versie (je ziet een melding bovenin); tik daarna op die melding of op de download in Downloads en kies **Installeren**. Je cijfers, reminders en instellingen blijven gewoon staan.
 - Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week.
 - Zelf kijken kan altijd bij **Meer → Zoek naar updates**.
-- Na het bijwerken heb je de download (`Ichthus+.apk`) niet meer nodig; je kunt hem uit Downloads verwijderen. Hij is maar ongeveer een halve MB.
+- Na het bijwerken haalt de app de download (`C.R.H-v….apk`) zelf weer uit Downloads, zodat hij geen opslag inneemt. (Op Android 9 en ouder downloadt je browser hem; die kun je zelf verwijderen, hij is maar ongeveer een halve MB.)
 
 ### Updates via Obtainium (handig)
 
@@ -49,7 +49,7 @@ Wil je updates zonder zelf te downloaden en zonder dat er bestanden in Downloads
 2. Tik op **Toevoegen**, plak `https://github.com/wesssaa/W.S.P` en tik op **Toevoegen**.
 3. Obtainium laat je weten als er een nieuwe versie is, installeert hem en ruimt de download daarna zelf op.
 
-Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de gewone versies, geen testversies (canary).
+Vraagt Obtainium welke APK je wilt, kies dan de `C.R.H-v….apk` (de `Ichthus+.apk` ernaast is alleen voor oude versies van de app). Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de gewone versies, geen testversies (canary).
 
 ## Privacy
 
@@ -58,10 +58,10 @@ Laat bij Obtainium de optie voor pre-releases uit staan: dan krijg je alleen de 
 - Het rooster van een medeleerling of docent (en de lijst om in te zoeken) kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
-- De app kijkt op GitHub of er een update is; de download zelf gaat via je browser. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
+- De app kijkt op GitHub of er een update is; de download zelf doet Android (de downloadfunctie van je telefoon). GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
 - Loopt de app vast, dan zie je de technische foutmelding (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog). Die wordt niet vanzelf verstuurd; je kunt hem zelf kopiëren en naar de ontwikkelaar sturen.
 - Er zitten geen advertenties of trackers in.
 
 ## Let op
 
-W.S.P is een persoonlijk project van een leerling. De app is niet gemaakt door of namens je school of Zermelo, en zij zijn er niet verantwoordelijk voor. De gegevens komen uit het leerlingportaal en Zermelo; twijfel je ergens over, kijk dan in het portaal zelf.
+C.R.H is een persoonlijk project van een leerling. De app is niet gemaakt door of namens je school of Zermelo, en zij zijn er niet verantwoordelijk voor. De gegevens komen uit het leerlingportaal en Zermelo; twijfel je ergens over, kijk dan in het portaal zelf.
